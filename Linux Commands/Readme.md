@@ -46,7 +46,7 @@
 | `uname -a` | uname - display system information |
 | `history` | history - display a list of previously executed commands |
 | `echo 'I need Tshirt from codeswear!'` | echo - display text or variables to the console |
-| `ls` | tee file.txt` | tee - redirect output to both a file and the console |
+| `$ ls | tee file.txt` | tee - redirect output to both a file and the console |
 | `locate file.txt` | locate - locate any file on the system |
 | `sort file.txt` | sort - sort lines of text in a file or input |
 | `uniq file.txt` | uniq - remove duplicate lines from a file or input |
